@@ -146,15 +146,15 @@ dt::after {
     display: none;
 }
 #scene #frank {
-    width: 200px;
+    width: 150px;
     z-index: 2;
-    right: 250px;
+    right: 20%;
     display: none;
 }
 #scene #welding-mask {
-    width: 150px;
-    top: 300px;
-    right: 280px;
+    width: 25%;
+    top: 50%;
+    right: 50%;
     z-index: 3;
     opacity: 1;
     display: none;
@@ -174,4 +174,5 @@ dt::after {
     #scene {
         height: 70vw;
     }
+
 }
