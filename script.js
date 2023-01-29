@@ -20,4 +20,4 @@ for (obj of objects) {
             });
         }
     });
-}
+} 
